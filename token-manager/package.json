@@ -1,0 +1,13 @@
+{
+  "author": "",
+  "name": "serverstats",
+  "version": "0.0.0",
+  "repository": "websockets/ws",
+  "scripts": {
+    "serve": "NODE_ENV=production node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongodb": "^3.0.4"
+  }
+}
